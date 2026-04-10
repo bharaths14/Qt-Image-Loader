@@ -23,7 +23,7 @@ This is a Qt C++ application that allows users to load and display images with p
 3. Run the application
 
 # Output
-screenshot.png
+Screenshot.png
 
 # Author
 Bharath S
